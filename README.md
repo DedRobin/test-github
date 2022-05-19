@@ -1,1 +1,1 @@
-This repository uses for testing.
+This repository uses for git branching.
