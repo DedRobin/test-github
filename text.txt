@@ -1,3 +1,4 @@
 Hello! It's a text file.
 Have a nice day! :)
-Fix bag. Done!
+Fix bug. Done!
+Else fix bug.
